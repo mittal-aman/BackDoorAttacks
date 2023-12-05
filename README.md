@@ -55,7 +55,3 @@ To execute the project code, follow these steps:
 ## Expected Results
 
 Upon successful execution, the notebook will provide the accuracy on clean test data and the attack success rate for the different levels of pruning applied to the BadNet model.
-
-## Contact
-
-For any queries regarding the project, feel free to reach out to [Your Email/Contact Information].
